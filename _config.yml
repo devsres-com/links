@@ -60,13 +60,6 @@ links:
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: devsresnetwork 
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
-
     # TWITTER
   - Name: Twitter
     URL: https://twitter.com
@@ -74,6 +67,12 @@ links:
     Color: '#1DA1F2'
     Icon-Class: fab fa-twitter
 
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: devsresnetwork 
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
 
     # BUY ME A COFFEE
   - Name: BuyMeACoffee
@@ -83,19 +82,19 @@ links:
     Color: '#FFDD00'
     Text_Color: '#000000'
 
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://t.me
+    Username: devsres
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
     # EMAIL
   - Name: Email
-    URL: 'mailto:marcelo@devsres.com'
+    URL: 'mailto:contact@devsres.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
-
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: marcelo_devsres 
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
 
 
     # CLUBHOUSE
