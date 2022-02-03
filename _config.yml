@@ -15,12 +15,6 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
     
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: devsresnetwork 
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
@@ -28,48 +22,6 @@ links:
     Username: marcelo_devsres
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
-
-    # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: harsh98trivedi
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
-
-    # CLUBHOUSE
-  - Name: Clubhouse
-    URL: ''
-    Username: '@harsh98trivedi'
-    Color: '#f1c40f'
-    Icon-Class: fas fa-hand-paper -mt-0.5
-    
-    # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: marcelo-devsres 
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
-
-    # YOUTUBE
-  - Name: YouTube
-    URL: https://www.youtube.com/channel
-    Username: UCgbbwB1Wxndh8urBPpyx9XA 
-    Color: '#ff0000'
-    Icon-Class: fab fa-youtube
-
-    # GITHUB
-  - Name: GitHub
-    URL: http://github.com
-    Username: marcelo-devsres 
-    Color: '#6e5494'
-    Icon-Class: fab fa-github
-
-    # EMAIL
-  - Name: Email
-    URL: 'mailto:marcelo@devsres.com'
-    Icon-Class: fas fa-envelope
-    Color: '#e17055'
-    Text_Color: '#ffffff'
 
     # TWITCH
   - Name: Twitch
@@ -79,9 +31,83 @@ links:
     Color: '#9147fe'
     Text_Color: '#ffffff'
 
+    # YOUTUBE
+  - Name: YouTube
+    URL: https://www.youtube.com/channel
+    Username: UCgbbwB1Wxndh8urBPpyx9XA 
+    Color: '#ff0000'
+    Icon-Class: fab fa-youtube
+
+  # DEV.TO
+  - Name: Dev.to
+    URL: 'https://dev.to'
+    Username: marcelo_devsres 
+    Icon-Class: fab fa-dev
+    Color: '#ffffff'
+    Text_Color: '#000000'
+
+    # LINKEDIN
+  - Name: LinkedIn
+    URL: https://www.linkedin.com/in
+    Username: marcelo-devsres 
+    Color: '#2867B2'
+    Icon-Class: fab fa-linkedin-in
+
+    # GITHUB
+  - Name: GitHub
+    URL: http://github.com
+    Username: marcelo-devsres 
+    Color: '#6e5494'
+    Icon-Class: fab fa-github
+
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: devsresnetwork 
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
+
+    # TWITTER
+  - Name: Twitter
+    URL: https://twitter.com
+    Username: harsh98trivedi
+    Color: '#1DA1F2'
+    Icon-Class: fab fa-twitter
+
+
+    # BUY ME A COFFEE
+  - Name: BuyMeACoffee
+    URL: 'https://buymeacoffee.com'
+    Username: marcelo_devsres 
+    Icon-Class: fas fa-mug-hot
+    Color: '#FFDD00'
+    Text_Color: '#000000'
+
+    # EMAIL
+  - Name: Email
+    URL: 'mailto:marcelo@devsres.com'
+    Icon-Class: fas fa-envelope
+    Color: '#e17055'
+    Text_Color: '#ffffff'
+
+    # TELEGRAM
+  - Name: Telegram
+    URL: http://telegram.me
+    Username: marcelo_devsres 
+    Color: '#0088cc'
+    Icon-Class: fab fa-telegram-plane
+
+
+    # CLUBHOUSE
+  - Name: Clubhouse
+    URL: 
+    Username: '@harsh98trivedi'
+    Color: '#f1c40f'
+    Icon-Class: fas fa-hand-paper -mt-0.5
+    
     # VIMEO
   - Name: Vimeo
-    URL: '' 
+    URL: 
     Username: harshtrivedi
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
@@ -108,12 +134,6 @@ links:
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: marcelo_devsres 
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
 
     # SNAPCHAT
   - Name: Snapchat
@@ -191,19 +211,11 @@ links:
 
     # MEDIUM
   - Name: Medium
-    URL: ''
+    URL: 
     Username: '@harsh98trivedi'
     Icon-Class: fab fa-medium-m
     Color: '#00ab6c'
     Text_Color: '#ffffff'
-
-    # DEV.TO
-  - Name: Dev.to
-    URL: 'https://dev.to'
-    Username: marcelo_devsres 
-    Icon-Class: fab fa-dev
-    Color: '#ffffff'
-    Text_Color: '#000000'
 
   #   # TUMBLR
   # - Name: Tumblr
@@ -212,17 +224,10 @@ links:
   #   Color: '#35465c'
   #   Icon-Class: fab fa-tumblr
 
-  # BUY ME A COFFEE
-  - Name: BuyMeACoffee
-    URL: 'https://buymeacoffee.com'
-    Username: harshtrivedi
-    Icon-Class: fas fa-mug-hot
-    Color: '#FFDD00'
-    Text_Color: '#000000'
 
     # CUSTOM LINK
   - Name: Blog
-    URL: https://harsh98trivedi.github.io/blog
+    URL: 
     Icon-Class: fas fa-link
     Color: '#ffb142'
     Text_Color: '#ffffff'
